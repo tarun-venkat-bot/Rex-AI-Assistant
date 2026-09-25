@@ -1,0 +1,4 @@
+[2026-09-19 03:21 PM] User asked about the current day, which is Saturday, September 19, 2026.
+User inquired about pre-calculus, which prepares students for calculus by covering functions, graphs, trigonometry, and complex numbers.
+User wanted to know the difference between pre-calculus and Algebra 2; pre-calculus includes advanced topics and connects concepts to real-world applications.
+User asked about the difference between Calculus 1 and 2; Calculus 1 covers limits, derivatives, and basic integration, while Calculus 2 focuses on advanced integration techniques and series.
